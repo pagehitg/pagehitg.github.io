@@ -3574,15 +3574,24 @@ function renderVideos() {
         video.isLive === true
       );
 
+    
     const matchMemberForType =
-      selectedType === "MV" ? true : matchMember;
+      currentCategory === "FANTUBE" ||
+      selectedType === "MV"
+        ? true
+        : matchMember;
+
+    const matchFanChannel =
+      currentCategory !== "FANTUBE" ||
+      selectedFanChannel === "" ||
+      video.channel === selectedFanChannel;
 
     return matchCategory &&
            matchYear &&
            matchSearch &&
            matchType &&
-           matchMemberForType;
-
+           matchMemberForType &&
+           matchFanChannel;
 
   });
 
