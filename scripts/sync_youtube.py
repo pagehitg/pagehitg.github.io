@@ -43,6 +43,92 @@ def youtube_api(endpoint, **params):
     with urllib.request.urlopen(url, timeout=30) as response:
         return json.load(response)
 
+
+# 팬튜브 채널의 영상 수집
+def collect_fan_videos(channel_url):
+    parsed = urllib.parse.urlparse(channel_url)
+    path = urllib.parse.unquote(parsed.path).strip("/")
+
+    if path.startswith("@"):
+        response = youtube_api(
+            "channels",
+            part="snippet,contentDetails",
+            forHandle=path
+        )
+    elif path.startswith("channel/"):
+        response = youtube_api(
+            "channels",
+            part="snippet,contentDetails",
+            id=path.split("/", 1)[1]
+        )
+    elif path.startswith("user/"):
+        response = youtube_api(
+            "channels",
+            part="snippet,contentDetails",
+            forUsername=path.split("/", 1)[1]
+        )
+    else:
+        print(f"Unsupported channel URL: {channel_url}")
+        return []
+
+    channels = response.get("items", [])
+
+    if not channels:
+        print(f"Fan channel not found: {channel_url}")
+        return []
+
+    channel = channels[0]
+    channel_name = channel["snippet"]["title"]
+    uploads_playlist = channel["contentDetails"]["relatedPlaylists"]["uploads"]
+
+    videos = []
+    page_token = None
+
+    while True:
+        params = {
+            "part": "snippet",
+            "playlistId": uploads_playlist,
+            "maxResults": 50
+        }
+
+        if page_token:
+            params["pageToken"] = page_token
+
+        response = youtube_api("playlistItems", **params)
+
+        for item in response.get("items", []):
+            snippet = item.get("snippet", {})
+            video_id = snippet.get("resourceId", {}).get("videoId")
+            title = snippet.get("title", "")
+            date = snippet.get("publishedAt", "")[:10]
+
+            if not video_id or not re.fullmatch(
+                r"[A-Za-z0-9_-]{11}", video_id
+            ):
+                continue
+
+            if title in ("Private video", "Deleted video") or not date:
+                continue
+
+            videos.append({
+                "title": title,
+                "url": "https://www.youtube.com/watch?v=" + video_id,
+                "year": date[:4],
+                "category": "FANTUBE",
+                "member": "ALL",
+                "channel": channel_name,
+                "date": date,
+                "type": "VIDEO",
+                "duration": ""
+            })
+
+        page_token = response.get("nextPageToken")
+
+        if not page_token:
+            break
+
+    print(f"Fan channel {channel_name}: {len(videos)} videos")
+    return videos
 def main():
     if not os.environ.get("YOUTUBE_API_KEY"):
         raise SystemExit("YOUTUBE_API_KEY is missing")
