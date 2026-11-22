@@ -77,8 +77,19 @@ def collect_fan_videos(channel_url):
         print(f"Fan channel not found: {channel_url}")
         return []
 
+    
     channel = channels[0]
     channel_name = channel["snippet"]["title"]
+
+    # 팬튜브 채널 프로필 사진
+    thumbnails = channel["snippet"].get("thumbnails", {})
+
+    channel_avatar = (
+        thumbnails.get("high", {}).get("url")
+        or thumbnails.get("medium", {}).get("url")
+        or thumbnails.get("default", {}).get("url", "")
+    )
+
     uploads_playlist = channel["contentDetails"]["relatedPlaylists"]["uploads"]
 
     videos = []
@@ -117,6 +128,7 @@ def collect_fan_videos(channel_url):
                 "category": "FANTUBE",
                 "member": "ALL",
                 "channel": channel_name,
+                "channelAvatar": channel_avatar,
                 "date": date,
                 "type": "VIDEO",
                 "duration": ""
