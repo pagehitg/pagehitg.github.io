@@ -3160,6 +3160,75 @@ const emptyMessage = document.getElementById("emptyMessage");
 
 const selectedTypes = new Set();
 const selectedMembers = new Set();
+  
+/* 팬튜브 채널 프로필 필터 */
+
+let selectedFanChannel = "";
+
+function renderFanChannelFilters() {
+  const container = document.getElementById("fanChannelFilters");
+  container.replaceChildren();
+
+  const channels = new Map();
+
+  videoData.forEach(video => {
+    if (
+      video.category === "FANTUBE" &&
+      video.channel &&
+      !channels.has(video.channel)
+    ) {
+      channels.set(video.channel, video.channelAvatar || "");
+    }
+  });
+
+  function addChannelButton(name, avatar, isAll = false) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "fan-channel-btn";
+
+    if (selectedFanChannel === name) {
+      button.classList.add("active");
+    }
+
+    const circle = document.createElement("span");
+    circle.className = "fan-channel-avatar";
+
+    if (isAll) {
+      circle.textContent = "ALL";
+      circle.style.color = "#fff";
+      circle.style.fontSize = "13px";
+      circle.style.fontWeight = "700";
+    } else if (avatar) {
+      const img = document.createElement("img");
+      img.src = avatar;
+      img.alt = name;
+      img.loading = "lazy";
+      circle.appendChild(img);
+    }
+
+    const label = document.createElement("span");
+    label.className = "fan-channel-name";
+    label.textContent = isAll ? "전체" : name;
+
+    button.append(circle, label);
+
+    button.addEventListener("click", () => {
+      selectedFanChannel = name;
+      renderFanChannelFilters();
+      renderVideos();
+    });
+
+    container.appendChild(button);
+  }
+
+  addChannelButton("", "", true);
+
+  channels.forEach((avatar, name) => {
+    addChannelButton(name, avatar);
+  });
+}
+
+renderFanChannelFilters();
 
 /* 분류: 하나만 선택 */
 
