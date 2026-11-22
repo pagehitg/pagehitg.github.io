@@ -10,6 +10,30 @@ API_URL = "https://www.googleapis.com/youtube/v3/"
 CHANNEL_HANDLE = "@hitgs_offcl"
 OUTPUT_FILE = Path("videos.js")
 
+# Firebase에서 등록된 팬튜브 채널 목록 가져오기
+def load_fan_channels():
+    import firebase_admin
+    from firebase_admin import credentials, firestore
+
+    service_account = os.environ.get("FIREBASE_SERVICE_ACCOUNT")
+
+    if not service_account:
+        raise RuntimeError("FIREBASE_SERVICE_ACCOUNT is missing")
+
+    if not firebase_admin._apps:
+        credential = credentials.Certificate(json.loads(service_account))
+        firebase_admin.initialize_app(credential)
+
+    db = firestore.client()
+    channels = []
+
+    for document in db.collection("fanChannels").stream():
+        data = document.to_dict()
+
+        if data.get("enabled", True) and data.get("url"):
+            channels.append(data["url"])
+
+    return channels
 
 def youtube_api(endpoint, **params):
     params["key"] = os.environ["YOUTUBE_API_KEY"]
@@ -19,10 +43,13 @@ def youtube_api(endpoint, **params):
     with urllib.request.urlopen(url, timeout=30) as response:
         return json.load(response)
 
-
 def main():
     if not os.environ.get("YOUTUBE_API_KEY"):
         raise SystemExit("YOUTUBE_API_KEY is missing")
+
+    fan_channels = load_fan_channels()
+    print(f"Registered fan channels: {len(fan_channels)}")
+
 
     channel_data = youtube_api(
         "channels",
