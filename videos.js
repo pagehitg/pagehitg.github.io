@@ -1,5 +1,41 @@
 const videos = [
   {
+    "title": "261108 1部 HITGS HYERIN [Gulliver!] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=NnGVBe8BeMY",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-22",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261108 1部 HITGS HYERIN [Little By Little] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=5Nu8yJouocI",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-22",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261108 1部 HITGS HYERIN [A-HA!] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=z71rIjWqUDs",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-22",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "[힛지스] 티켓팅을 성공해야 하는 이유",
     "url": "https://www.youtube.com/watch?v=eQDNgHW-9Hk",
     "year": "2026",
@@ -8,6 +44,18 @@ const videos = [
     "channel": "혜린이좋아하겠습니다",
     "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-11-22",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261108 1部 HITGS HYERIN [GROSS] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=dAkeJCcTnEE",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-21",
     "type": "VIDEO",
     "duration": ""
   },
@@ -372,6 +420,54 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "261107 2部 HITGS HYERIN [BRB Japanese Ver.] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=eq6m_ZnP2AE",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-12",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261107 2部 HITGS HYERIN [GROSS] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=C0ULtdJCkdo",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-12",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261107 2部 HITGS HYERIN [Gulliver!] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=mYmPBiwEejk",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-12",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261107 2部 HITGS HYERIN [SOURPATCH] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=PrQIc6dKmtQ",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-12",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "[Hit-log] 가족과 함께한 떠히의 쁘이로꾸🏖️ l 힛지스의 휴가 브이로그",
     "url": "https://www.youtube.com/watch?v=cm4b0zJNql0",
     "year": "2026",
@@ -396,6 +492,102 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "261107 2部 HITGS HYERIN [Lovesick Girls] BLACKPINK Cover 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=goigemdEsiU",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-11",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261107 2部 HITGS HYERIN [HAPPY] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=dQWXHCAidAA",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-11",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261107 2部 HITGS HYERIN [CHARIZZMA] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=5KfiySLdGzk",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-11",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261107 1部 HITGS HYERIN [Gulliver!] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=_S90Ov92_gk",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-10",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261107 1部 HITGS HYERIN [HAPPY] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=iFbplN3wS2Y",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-10",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261107 1部 HITGS HYERIN [CHARIZZMA] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=LxEEQQZCbbc",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-10",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261107 1部 HITGS HYERIN [SOURPATCH] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=R2b4vgF-gtg",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-10",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261107 1部 HITGS HYERIN [A-HA!] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=1E4gaJ6Q-_w",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-10",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "𝚂𝚘 𝚕𝚎𝚝 𝚖𝚎 𝐁𝐑𝐁 🐰🐱 #HITGS #힛지스 #BRB #ThingsWeDream_Vol4",
     "url": "https://www.youtube.com/watch?v=nKHBMxqXoHw",
     "year": "2026",
@@ -418,6 +610,30 @@ const videos = [
     "duration": "0:13",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "261106 HITGS HYERIN [SOURPATCH] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=yTJHQlIVk9c",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-09",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "261108 1部 HITGS HYERIN [HAPPY] 힛지스 혜린 Fancam 직캠 4K60P",
+    "url": "https://www.youtube.com/watch?v=mR_GirjzRc4",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-09",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "도쿄 be right back 👐 #HITGS #힛지스",
@@ -466,6 +682,18 @@ const videos = [
     "duration": "0:52",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "261107 2部 HITGS HYERIN [BRB] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=Hrziy_TZp_A",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-07",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "[힛지스] 귀여워서 난리난 커버무대",
@@ -538,6 +766,18 @@ const videos = [
     "duration": "0:16",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "261106 HITGS HYERIN [Little By Little] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=8sQeEsZnE94",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-06",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "HITGS(힛지스) 'BRB' 응원법",
@@ -2124,6 +2364,30 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "260908 HITGS HYERIN [HAPPY] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=N36Fpvgd7oE",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-09-10",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "260908 HITGS HYERIN [SOURPATCH] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=EEmHmM2aWl0",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-09-10",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "나의 마음을 𝚞𝚗𝚕𝚘𝚌𝚔 ˚₊✩‧₊ #HITGS #힛지스 #SEOJIN #서진",
     "url": "https://www.youtube.com/watch?v=ENaagx8kItU",
     "year": "2026",
@@ -2134,6 +2398,18 @@ const videos = [
     "duration": "0:13",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "260908 HITGS HYERIN [Gulliver!] 힛지스 혜린 Fancam 직캠 4K",
+    "url": "https://www.youtube.com/watch?v=4GPSLQ2r-Pc",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "HYE-RIN 💘",
+    "channelAvatar": "https://yt3.ggpht.com/ytc/AIdro_mOOgQ2hqo_8db1L3DjyuhCoR3sEsRjEbbW34gOXd4maa9Sgm2SsTXc4jkocSqBJa1XlQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-09-09",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "내 세상이 𝗛𝗜𝗧𝗚𝗦 때문에 뒤흔들려 𐐪𐑂‧₊˚ #HITGS #힛지스 #Gulliver #ThingsWeDream_Vol3",
