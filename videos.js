@@ -1,5 +1,27 @@
 const videos = [
   {
+    "title": "[힛지스] 티켓팅을 성공해야 하는 이유",
+    "url": "https://www.youtube.com/watch?v=eQDNgHW-9Hk",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-11-22",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "[힛지스] 실버버튼 언박싱하겠습니다",
+    "url": "https://www.youtube.com/watch?v=REKHYWzEmWc",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-11-21",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "언박싱♡.•♬",
     "url": "https://www.youtube.com/watch?v=maVAXjNOZpo",
     "year": "2026",
@@ -252,6 +274,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "힛지스 응원법 모음.📂",
+    "url": "https://www.youtube.com/watch?v=M1-AcmeDmuU",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-11-14",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "09즈가 왔사카~✌🏻",
     "url": "https://www.youtube.com/watch?v=beZdRI4UQp8",
     "year": "2026",
@@ -408,6 +441,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 최애의 서희",
+    "url": "https://www.youtube.com/watch?v=KgnFgMNpGhY",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-11-08",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "도쿄 팬콘서트 날 잠금 해제🔓 #HITGS #힛지스",
     "url": "https://www.youtube.com/watch?v=_TkQ9A1yHlY",
     "year": "2026",
@@ -418,6 +462,28 @@ const videos = [
     "duration": "0:52",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "[힛지스] 귀여워서 난리난 커버무대",
+    "url": "https://www.youtube.com/watch?v=b6jXZIyU9Fo",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-11-07",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "🖤 HITGS (힛지스) - BRB [좌우음성]",
+    "url": "https://www.youtube.com/watch?v=nl0PxsIC7M0",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-11-07",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "혜린이가 도쿄에 오자마자 한 일 #HITGS #힛지스 #HYERIN #혜린",
@@ -744,6 +810,17 @@ const videos = [
     "isLive": true
   },
   {
+    "title": "라이브가 눈물로 가득찬 이유",
+    "url": "https://www.youtube.com/watch?v=pi87ULSqxzI",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-10-25",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "힛찌!!! 오늘 밤은 도망 금지🫤",
     "url": "https://www.youtube.com/watch?v=vzQFViG5yME",
     "year": "2026",
@@ -888,6 +965,17 @@ const videos = [
     "isLive": true
   },
   {
+    "title": "[힛지스] 진짜 상상도 못함..",
+    "url": "https://www.youtube.com/watch?v=t9ZN3xzcsm4",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-10-16",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "나한테 왜구래,,,?????",
     "url": "https://www.youtube.com/watch?v=ilJwbn93CW0",
     "year": "2026",
@@ -1020,6 +1108,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 라이브 1000명을 찍자 생긴 일..",
+    "url": "https://www.youtube.com/watch?v=6UJEMUSQJD8",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-10-09",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "MEONGHUI : ORIGIN",
     "url": "https://www.youtube.com/watch?v=h_QxAz_V7sM",
     "year": "2026",
@@ -1066,6 +1165,17 @@ const videos = [
     "duration": "26:00",
     "type": "VIDEO",
     "isLive": true
+  },
+  {
+    "title": "[힛지스] 라이브가 눈물로 가득 찬 이유",
+    "url": "https://www.youtube.com/watch?v=767J6SA_yRU",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-10-07",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "사랑이 시작된 순간을 기억하나요?💫 #HITGS #힛지스 #SEOHEE #서희 #이별로부터_Challenge",
@@ -1140,6 +1250,50 @@ const videos = [
     "isLive": true
   },
   {
+    "title": "[힛지스] 몰폰 중이라면 꼭 봐주세요",
+    "url": "https://www.youtube.com/watch?v=jQRjDusg1LE",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-10-03",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "[힛지스] 간식은 못참지",
+    "url": "https://www.youtube.com/watch?v=uKRGUZZoTHg",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-10-03",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "[힛지스] 트름한거 아님!",
+    "url": "https://www.youtube.com/watch?v=dp7De7o2l2I",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-10-03",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "[힛지스] 어딜 간식도 없이 사진을",
+    "url": "https://www.youtube.com/watch?v=MTKDm6LWsCE",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-10-03",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "HITGS in JAPAN 👋 | TOKYO FAN CONCERT Behind",
     "url": "https://www.youtube.com/watch?v=fAef_hVdRrk",
     "year": "2026",
@@ -1152,6 +1306,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 비주얼만으로 RT탄 아이돌",
+    "url": "https://www.youtube.com/watch?v=HAjgH9fCM-c",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-10-02",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "PPIYU : ORIGIN",
     "url": "https://www.youtube.com/watch?v=751_UECn7y0",
     "year": "2026",
@@ -1162,6 +1327,17 @@ const videos = [
     "duration": "0:49",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "[힛지스] 수영장에서 라이브는 처음봐요",
+    "url": "https://www.youtube.com/watch?v=_40uef0VaPk",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-10-01",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "귀요미즈랑 놀래?! 말래?!😏",
@@ -1210,6 +1386,17 @@ const videos = [
     "duration": "0:12",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "[힛지스] 힛찌가 된다면..",
+    "url": "https://www.youtube.com/watch?v=OiDUkpua3bs",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-30",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "ʚ •ө• ɞ #HITGS #힛지스 #IYOO #이유",
@@ -1282,6 +1469,28 @@ const videos = [
     "duration": "1:09:56",
     "type": "VIDEO",
     "isLive": true
+  },
+  {
+    "title": "[힛지스] 노력은 배신하지 않는다",
+    "url": "https://www.youtube.com/watch?v=LBKcKZh2MjU",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-27",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "[힛지스] 우주최강귀요미이뿌니혜린",
+    "url": "https://www.youtube.com/watch?v=d3CoEnh-qSk",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-27",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "힛찌야~ 놀자아~",
@@ -1380,6 +1589,17 @@ const videos = [
     "isLive": true
   },
   {
+    "title": "[힛지스] 콘서트 장에서 발생한 충돌사고",
+    "url": "https://www.youtube.com/watch?v=MUdYgVxKkPI",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-23",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "떠히랑 수다를 떨어보아요~~",
     "url": "https://www.youtube.com/watch?v=vnVc2Us_pKY",
     "year": "2026",
@@ -1416,6 +1636,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 천안 여자는 그런거 모릅니데이",
+    "url": "https://www.youtube.com/watch?v=ShqOAWo2Jo0",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-22",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "HITGS 세상이 뒤흔들려🫨 #HITGS #힛지스 #Gulliver #ThingsWeDream_Vol3",
     "url": "https://www.youtube.com/watch?v=nYiPyst6E4s",
     "year": "2026",
@@ -1450,6 +1681,17 @@ const videos = [
     "duration": "39:32",
     "type": "VIDEO",
     "isLive": true
+  },
+  {
+    "title": "[힛지스] 1등 공약 = 대표님이랑 춤추기",
+    "url": "https://www.youtube.com/watch?v=SyY75htALX4",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-20",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "자기 전에 혜린이랑 놀고 자는 거 어때?ㅎㅎ",
@@ -1572,6 +1814,28 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "나 대표님인데 사실 나도 모른다..",
+    "url": "https://www.youtube.com/watch?v=FfpWKUkq2nU",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-17",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "[힛지스] 백억년돌..",
+    "url": "https://www.youtube.com/watch?v=lWhR6BK2mHs",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-17",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "🎀🎀 𝑪𝑶𝑷𝒀 ೀ⋆｡˚ #HITGS #힛지스 #Ctrl_C #ThingsWeDream_Vol3",
     "url": "https://www.youtube.com/watch?v=J1WTs6R8h5o",
     "year": "2026",
@@ -1594,6 +1858,17 @@ const videos = [
     "duration": "0:28",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "[힛지스] 언니 목걸이 ㄳ",
+    "url": "https://www.youtube.com/watch?v=k-mOxAkKtIQ",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-16",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "かわいいトヒ ♡ #HITGS #힛지스 #SEOHEE #서희",
@@ -1630,6 +1905,17 @@ const videos = [
     "duration": "0:14",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "[힛지스] 진짜 잘거야..?",
+    "url": "https://www.youtube.com/watch?v=LkB2jCrQ73U",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-14",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "혜린이의 일본 마지막날😭",
@@ -1738,6 +2024,17 @@ const videos = [
     "duration": "0:13",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "[🖤] 내 세상이 흔들려, 너 때문에ㅣHITGS - Gulliver! [가사/번역/lyrics]",
+    "url": "https://www.youtube.com/watch?v=p_789krclQg",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-11",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "이유가 온 이유🐥⸒⸒?",
@@ -1896,6 +2193,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 힛지스 입니다..",
+    "url": "https://www.youtube.com/watch?v=rmQs5orYN3w",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-09-05",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "곰방와~힛찌들!👋🏻💖",
     "url": "https://www.youtube.com/watch?v=cnuleZwXxPg",
     "year": "2026",
@@ -2028,6 +2336,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 팬튜브 시작하세요!",
+    "url": "https://www.youtube.com/watch?v=nvJXmIV5QnQ",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-08-31",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "HITGS(힛지스) 'Gulliver!' MV Behind The Scenes",
     "url": "https://www.youtube.com/watch?v=upsg90EmTH0",
     "year": "2026",
@@ -2050,6 +2369,17 @@ const videos = [
     "duration": "0:24",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "[힛지스] 콘서트를 꼭 가야하는 이유",
+    "url": "https://www.youtube.com/watch?v=zGpba9wCdEg",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-08-30",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "팬콘 뒤풀이 들어와아~!🐰🐶",
@@ -2208,6 +2538,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 간식을 털렸다..",
+    "url": "https://www.youtube.com/watch?v=_uEnEbdC_1k",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-08-26",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "깜짝 놀랐찡!?🌙",
     "url": "https://www.youtube.com/watch?v=gW31C0egxU8",
     "year": "2026",
@@ -2314,6 +2655,17 @@ const videos = [
     "duration": "0:25",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "콘서트 홍보인 척",
+    "url": "https://www.youtube.com/watch?v=61cr2Ged1vo",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-08-22",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "아기 멍냥이 떠히ᓚᘏᗢ #HITGS #힛지스 #SEOHEE #서희",
@@ -2460,6 +2812,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 존재가 플러팅임..",
+    "url": "https://www.youtube.com/watch?v=kh20eKmY4uU",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-08-03",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "야구장에~서 누가 돌아 왔~게⚾ I HITGSDAY",
     "url": "https://www.youtube.com/watch?v=RvTrnVwQ6Eo",
     "year": "2026",
@@ -2568,6 +2931,39 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[핫지스] 동아리 짱 맞습니다",
+    "url": "https://www.youtube.com/watch?v=DM17VEfm-6I",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-14",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "[힛지스] 힛지스는 유명한 노래 맛집임..",
+    "url": "https://www.youtube.com/watch?v=6_s_LLCuAs8",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-13",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "[힛지스] 타격감은 역시..",
+    "url": "https://www.youtube.com/watch?v=hM6FoxN96Js",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-13",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "かわいい⋰˚☆ #HITGS #힛지스 #VV #IYOO",
     "url": "https://www.youtube.com/watch?v=gsrt7Dd0LdY",
     "year": "2026",
@@ -2578,6 +2974,17 @@ const videos = [
     "duration": "0:17",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "[힛지스] 사랑하게 될 거야",
+    "url": "https://www.youtube.com/watch?v=o_5A43jl3Zw",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-12",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "꿍실꿍실 ◓◞♡ #HITGS #힛지스 #HYERIN #혜린",
@@ -2628,6 +3035,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 갸루가 되었다..",
+    "url": "https://www.youtube.com/watch?v=3fbl7ss5Kxg",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-06",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "powder powder woah-! #HITGS #힛지스 #SEOJIN #서진",
     "url": "https://www.youtube.com/watch?v=oe83xqAuzac",
     "year": "2026",
@@ -2652,6 +3070,17 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 반전 매력을 보여드리겠습니다",
+    "url": "https://www.youtube.com/watch?v=Em4omyQVt6M",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-05",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "첫 사랑니…🦷🩷 #HITGS #힛지스 #SEOHEE #서희",
     "url": "https://www.youtube.com/watch?v=SaEeqFt7dl4",
     "year": "2026",
@@ -2662,6 +3091,28 @@ const videos = [
     "duration": "0:13",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "[🖤] 힛지스 노래모음ㅣHITGS Playlist",
+    "url": "https://www.youtube.com/watch?v=Ch0b6qG84Oo",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-04",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "[힛지스] 사격 잘하는 법",
+    "url": "https://www.youtube.com/watch?v=O0Y9HZLZV2Y",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-04",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "GG EZ 🎮🖤 #HITGS #힛지스 #IYOO #이유",
@@ -2688,6 +3139,28 @@ const videos = [
     "isLive": false
   },
   {
+    "title": "[힛지스] 킬링파트 만드는 법",
+    "url": "https://www.youtube.com/watch?v=o39nJ-MbiKg",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-03",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
+    "title": "[힛지스] 원만한 합의 부탁드립니다",
+    "url": "https://www.youtube.com/watch?v=hBpPYIt0w1o",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-03",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "첫 팬콘 기념으로 파라파라나 춰야겠다🩷 #HITGS #힛지스 #SEOHEE #HYERIN",
     "url": "https://www.youtube.com/watch?v=xCFHutze-4U",
     "year": "2026",
@@ -2710,6 +3183,17 @@ const videos = [
     "duration": "0:10",
     "type": "SHORTS",
     "isLive": false
+  },
+  {
+    "title": "[힛지스] 두쫀쿠 참사",
+    "url": "https://www.youtube.com/watch?v=kvHciKe4gyM",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "date": "2026-07-02",
+    "type": "VIDEO",
+    "duration": ""
   },
   {
     "title": "ℍ𝕖𝕒𝕣𝕥𝕓𝕖𝕒𝕥 ˚₊· ͟͟͞͞➳❥ #HITGS #힛지스 #VV #비비",
