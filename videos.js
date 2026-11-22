@@ -6,6 +6,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-11-22",
     "type": "VIDEO",
     "duration": ""
@@ -17,6 +18,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-11-21",
     "type": "VIDEO",
     "duration": ""
@@ -280,6 +282,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-11-14",
     "type": "VIDEO",
     "duration": ""
@@ -447,6 +450,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-11-08",
     "type": "VIDEO",
     "duration": ""
@@ -470,6 +474,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-11-07",
     "type": "VIDEO",
     "duration": ""
@@ -481,6 +486,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-11-07",
     "type": "VIDEO",
     "duration": ""
@@ -816,6 +822,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-10-25",
     "type": "VIDEO",
     "duration": ""
@@ -971,6 +978,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-10-16",
     "type": "VIDEO",
     "duration": ""
@@ -1114,6 +1122,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-10-09",
     "type": "VIDEO",
     "duration": ""
@@ -1173,6 +1182,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-10-07",
     "type": "VIDEO",
     "duration": ""
@@ -1256,6 +1266,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-10-03",
     "type": "VIDEO",
     "duration": ""
@@ -1267,6 +1278,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-10-03",
     "type": "VIDEO",
     "duration": ""
@@ -1278,6 +1290,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-10-03",
     "type": "VIDEO",
     "duration": ""
@@ -1289,6 +1302,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-10-03",
     "type": "VIDEO",
     "duration": ""
@@ -1312,6 +1326,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-10-02",
     "type": "VIDEO",
     "duration": ""
@@ -1335,6 +1350,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-10-01",
     "type": "VIDEO",
     "duration": ""
@@ -1394,6 +1410,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-30",
     "type": "VIDEO",
     "duration": ""
@@ -1477,6 +1494,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-27",
     "type": "VIDEO",
     "duration": ""
@@ -1488,6 +1506,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-27",
     "type": "VIDEO",
     "duration": ""
@@ -1595,6 +1614,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-23",
     "type": "VIDEO",
     "duration": ""
@@ -1642,6 +1662,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-22",
     "type": "VIDEO",
     "duration": ""
@@ -1689,6 +1710,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-20",
     "type": "VIDEO",
     "duration": ""
@@ -1820,6 +1842,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-17",
     "type": "VIDEO",
     "duration": ""
@@ -1831,6 +1854,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-17",
     "type": "VIDEO",
     "duration": ""
@@ -1866,6 +1890,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-16",
     "type": "VIDEO",
     "duration": ""
@@ -1913,6 +1938,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-14",
     "type": "VIDEO",
     "duration": ""
@@ -2032,6 +2058,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-11",
     "type": "VIDEO",
     "duration": ""
@@ -2199,6 +2226,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-09-05",
     "type": "VIDEO",
     "duration": ""
@@ -2342,6 +2370,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-08-31",
     "type": "VIDEO",
     "duration": ""
@@ -2377,6 +2406,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-08-30",
     "type": "VIDEO",
     "duration": ""
@@ -2544,6 +2574,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-08-26",
     "type": "VIDEO",
     "duration": ""
@@ -2663,6 +2694,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-08-22",
     "type": "VIDEO",
     "duration": ""
@@ -2818,6 +2850,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-08-03",
     "type": "VIDEO",
     "duration": ""
@@ -2937,6 +2970,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-14",
     "type": "VIDEO",
     "duration": ""
@@ -2948,6 +2982,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-13",
     "type": "VIDEO",
     "duration": ""
@@ -2959,6 +2994,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-13",
     "type": "VIDEO",
     "duration": ""
@@ -2982,6 +3018,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-12",
     "type": "VIDEO",
     "duration": ""
@@ -3041,6 +3078,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-06",
     "type": "VIDEO",
     "duration": ""
@@ -3076,6 +3114,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-05",
     "type": "VIDEO",
     "duration": ""
@@ -3099,6 +3138,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-04",
     "type": "VIDEO",
     "duration": ""
@@ -3110,6 +3150,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-04",
     "type": "VIDEO",
     "duration": ""
@@ -3145,6 +3186,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-03",
     "type": "VIDEO",
     "duration": ""
@@ -3156,6 +3198,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-03",
     "type": "VIDEO",
     "duration": ""
@@ -3191,6 +3234,7 @@ const videos = [
     "category": "FANTUBE",
     "member": "ALL",
     "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
     "date": "2026-07-02",
     "type": "VIDEO",
     "duration": ""
