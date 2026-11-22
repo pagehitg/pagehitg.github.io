@@ -2592,7 +2592,7 @@ body {
     </div>
   </div>
 
-  <div class="filter-group">
+  <div class="filter-group" id="videoMemberFilterGroup">
     <div class="filter-group-title">멤버</div>
 
     <div class="video-type-filters" id="memberFilters">
@@ -3207,11 +3207,23 @@ document.querySelectorAll("#memberFilters .type-filter")
 
 // CATEGORY
 
+  
+function updateVideoFilterGroups() {
+  const isFanTube = currentCategory === "FANTUBE";
+
+  document.getElementById("videoMemberFilterGroup").style.display =
+    isFanTube ? "none" : "";
+
+  document.getElementById("fanChannelFilterGroup").style.display =
+    isFanTube ? "block" : "none";
+}
+
 function selectCategory(category, button) {
 
   sessionStorage.setItem("hitgCategory", category);
 
   currentCategory = category;
+  updateVideoFilterGroups();
 
   document.querySelectorAll("#videoMenu .sub-item")
     .forEach(item => item.classList.remove("active"));
