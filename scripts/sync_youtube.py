@@ -368,10 +368,31 @@ def main():
         )
     ]
 
+    
+    # Firebase에 등록된 팬튜브 채널 영상 수집
+    fan_videos = []
+
+    for channel_url in fan_channels:
+        try:
+            collected = collect_fan_videos(channel_url)
+            fan_videos.extend(collected)
+        except Exception as error:
+            print(f"Failed to collect fan channel {channel_url}: {error}")
+
+    print(f"Total fan videos: {len(fan_videos)}")
+
+    # 자동 수집한 팬튜브 영상으로 기존 팬튜브 목록 갱신
+    # 수집 실패 시 기존 영상은 유지
+    if fan_channels and fan_videos:
+        other_videos = [
+            video for video in other_videos
+            if str(video.get("category", "")).upper() != "FANTUBE"
+        ]
+
     # URL 기준 중복 제거
     unique_videos = {}
 
-    for video in official_videos + other_videos:
+    for video in official_videos + fan_videos + other_videos:
         url = video.get("url")
 
         if url and url not in unique_videos:
