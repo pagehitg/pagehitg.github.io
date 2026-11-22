@@ -1241,13 +1241,74 @@ fanChannelForm.addEventListener("submit", async (event) => {
     });
 
     fanChannelMessage.textContent = "팬튜브 채널이 등록되었습니다.";
-    fanChannelForm.reset();
+    fanChannelForm.reset();    
+await loadFanChannels();
 
   } catch (error) {
     console.error(error);
     fanChannelMessage.textContent = "등록에 실패했습니다. 주소 또는 Firebase 권한을 확인해 주세요.";
   }
 });
+
+/* 팬튜브 채널 목록 및 삭제 */
+
+const fanChannelList = document.getElementById("fanChannelList");
+
+async function loadFanChannels() {
+  fanChannelList.textContent = "채널 목록을 불러오는 중입니다.";
+
+  try {
+    const snapshot = await getDocs(collection(db, "fanChannels"));
+
+    fanChannelList.replaceChildren();
+
+    if (snapshot.empty) {
+      fanChannelList.textContent = "등록된 채널이 없습니다.";
+      return;
+    }
+
+    snapshot.forEach(channelDoc => {
+      const channel = channelDoc.data();
+
+      const item = document.createElement("div");
+      item.style.cssText = "display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px;border-bottom:1px solid #353b5a;";
+
+      const link = document.createElement("a");
+      link.href = channel.url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = channel.url;
+      link.style.cssText = "color:#8de6c1;overflow-wrap:anywhere;";
+
+      const deleteButton = document.createElement("button");
+      deleteButton.type = "button";
+      deleteButton.textContent = "삭제";
+      deleteButton.style.cssText = "width:auto;flex-shrink:0;padding:8px 14px;";
+
+      deleteButton.addEventListener("click", async () => {
+        if (!confirm("이 팬튜브 채널을 삭제할까요?")) return;
+
+        deleteButton.disabled = true;
+
+        try {
+          await deleteDoc(doc(db, "fanChannels", channelDoc.id));
+          await loadFanChannels();
+        } catch (error) {
+          console.error(error);
+          alert("채널 삭제에 실패했습니다.");
+          deleteButton.disabled = false;
+        }
+      });
+
+      item.append(link, deleteButton);
+      fanChannelList.appendChild(item);
+    });
+
+  } catch (error) {
+    console.error(error);
+    fanChannelList.textContent = "채널 목록을 불러오지 못했습니다.";
+  }
+}
 
 /* 공지 관리 - Firebase 저장 및 불러오기 */
 
@@ -1680,7 +1741,10 @@ if (selected) {
 document.querySelectorAll(".admin-nav, .admin-subnav")
   .forEach(button => {
     button.addEventListener("click", () => {
-      const page = button.dataset.page;
+      const page = button.dataset.page;      
+if (page === "video-fantube") {
+  loadFanChannels();
+}
       
 if (page === "notice-add") {
   noticeForm.reset();
