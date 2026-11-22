@@ -1203,6 +1203,51 @@ import {
 } from "https://www.gstatic.com/firebasejs/12.6.0/firebase-firestore.js";
 
   const db = getFirestore(app);
+  
+/* 팬튜브 채널 등록 */
+
+const fanChannelForm = document.getElementById("fanChannelForm");
+const fanChannelMessage = document.getElementById("fanChannelMessage");
+
+fanChannelForm.addEventListener("submit", async (event) => {
+  event.preventDefault();
+
+  const url = document.getElementById("fanChannelUrl").value.trim();
+
+  try {
+    const parsedUrl = new URL(url);
+
+    if (
+      !["youtube.com", "www.youtube.com", "m.youtube.com"].includes(parsedUrl.hostname) ||
+      !/^\/(@[^/]+|channel\/[^/]+|c\/[^/]+|user\/[^/]+)\/?$/.test(parsedUrl.pathname)
+    ) {
+      fanChannelMessage.textContent = "올바른 유튜브 채널 주소를 입력해 주세요.";
+      return;
+    }
+
+    const channelUrl = parsedUrl.origin + parsedUrl.pathname.replace(/\/$/, "");
+
+    const snapshot = await getDocs(collection(db, "fanChannels"));
+
+    if (snapshot.docs.some(doc => doc.data().url === channelUrl)) {
+      fanChannelMessage.textContent = "이미 등록된 채널입니다.";
+      return;
+    }
+
+    await addDoc(collection(db, "fanChannels"), {
+      url: channelUrl,
+      enabled: true,
+      createdAt: serverTimestamp()
+    });
+
+    fanChannelMessage.textContent = "팬튜브 채널이 등록되었습니다.";
+    fanChannelForm.reset();
+
+  } catch (error) {
+    console.error(error);
+    fanChannelMessage.textContent = "등록에 실패했습니다. 주소 또는 Firebase 권한을 확인해 주세요.";
+  }
+});
 
 /* 공지 관리 - Firebase 저장 및 불러오기 */
 
