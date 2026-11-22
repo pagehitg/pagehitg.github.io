@@ -907,6 +907,77 @@ body {
   }
 }
 
+  
+/* 팬튜브 채널 필터 */
+
+.fan-channel-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 18px;
+}
+
+.fan-channel-btn {
+  width: 76px;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  text-align: center;
+}
+
+.fan-channel-avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 64px;
+  margin: 0 auto 8px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #303752;
+  border: 2px solid transparent;
+  transition: border-color .2s, transform .2s;
+}
+
+.fan-channel-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.fan-channel-btn:hover .fan-channel-avatar {
+  transform: scale(1.06);
+}
+
+.fan-channel-btn.active .fan-channel-avatar {
+  border-color: #8de6c1;
+}
+
+.fan-channel-name {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 650px) {
+  .fan-channel-filters {
+    gap: 12px;
+  }
+
+  .fan-channel-btn {
+    width: 66px;
+  }
+
+  .fan-channel-avatar {
+    width: 56px;
+    height: 56px;
+  }
+}
+
 /* VIDEO TYPE FILTERS */
 
 .video-type-filters {
