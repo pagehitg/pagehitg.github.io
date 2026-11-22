@@ -1641,6 +1641,17 @@ if (submenu.classList.contains("open")) {
   }
 }
 
+if (page === "video") {
+  const submenu = document.getElementById("adminVideoMenu");
+  submenu.classList.toggle("open");
+
+  if (submenu.classList.contains("open")) {
+    showAdminPage("video");
+  }
+
+  return;
+}
+
       if (page === "schedule") {
         const submenu = document.getElementById("adminScheduleMenu");
         submenu.classList.toggle("open");
