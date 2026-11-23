@@ -1,5 +1,17 @@
 const videos = [
   {
+    "title": "My best Photographer📸 #HITGS #힛지스 #VV #SEOJIN",
+    "url": "https://www.youtube.com/watch?v=kECQJqBxgoE",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-23",
+    "duration": "0:10",
+    "type": "SHORTS",
+    "isLive": false
+  },
+  {
     "title": "[힛지스] 티켓팅을 성공해야 하는 이유",
     "url": "https://www.youtube.com/watch?v=eQDNgHW-9Hk",
     "year": "2026",
