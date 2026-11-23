@@ -1,5 +1,17 @@
 const videos = [
   {
+    "title": "𝒮ℴ 𝓁ℯ𝓉 𝓂ℯ ℬℛℬ ⋆⁺₊✧ #HITGS #힛지스 #BRB #ThingsWeDream_Vol4",
+    "url": "https://www.youtube.com/watch?v=LfQz5pZHnW8",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-23",
+    "duration": "0:23",
+    "type": "SHORTS",
+    "isLive": false
+  },
+  {
     "title": "My best Photographer📸 #HITGS #힛지스 #VV #SEOJIN",
     "url": "https://www.youtube.com/watch?v=kECQJqBxgoE",
     "year": "2026",
