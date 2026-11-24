@@ -1,5 +1,17 @@
 const videos = [
   {
+    "title": "도대체 어떻게 그래? #HITGS #힛지스 #SEOJIN #서진",
+    "url": "https://www.youtube.com/watch?v=ZSXEDkWIJ4s",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-24",
+    "duration": "0:15",
+    "type": "SHORTS",
+    "isLive": false
+  },
+  {
     "title": "𝒮ℴ 𝓁ℯ𝓉 𝓂ℯ ℬℛℬ ⋆⁺₊✧ #HITGS #힛지스 #BRB #ThingsWeDream_Vol4",
     "url": "https://www.youtube.com/watch?v=LfQz5pZHnW8",
     "year": "2026",
