@@ -1,5 +1,17 @@
 const videos = [
   {
+    "title": "닿을 듯 말 듯 ₊˚♬ﾟ. #HITGS #힛지스 #IYOO #이유",
+    "url": "https://www.youtube.com/watch?v=s4vdFV6fRzg",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-24",
+    "duration": "0:26",
+    "type": "SHORTS",
+    "isLive": false
+  },
+  {
     "title": "도대체 어떻게 그래? #HITGS #힛지스 #SEOJIN #서진",
     "url": "https://www.youtube.com/watch?v=ZSXEDkWIJ4s",
     "year": "2026",
