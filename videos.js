@@ -1,5 +1,29 @@
 const videos = [
   {
+    "title": "막내즈 안 보고 어디 가려고?",
+    "url": "https://www.youtube.com/watch?v=JW8RO-HKk64",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-25",
+    "duration": "",
+    "type": "VIDEO",
+    "isLive": false
+  },
+  {
+    "title": "막내즈 안 보고 어디 가려고?",
+    "url": "https://www.youtube.com/watch?v=RMAOTnO2vqw",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-25",
+    "duration": "11:44",
+    "type": "VIDEO",
+    "isLive": true
+  },
+  {
     "title": "𝑰 𝒄𝒂𝒏 𝒎𝒆𝒍𝒕 𝒂𝒏 𝒊𝒈𝒍𝒐𝒐🧊#HITGS #힛지스 #SEOJIN #서진",
     "url": "https://www.youtube.com/watch?v=1vwYEI1jjvg",
     "year": "2026",
