@@ -19,9 +19,9 @@ const videos = [
     "member": "ALL",
     "channel": "HITGS (힛지스)",
     "date": "2026-11-25",
-    "duration": "",
+    "duration": "45:35",
     "type": "VIDEO",
-    "isLive": false
+    "isLive": true
   },
   {
     "title": "막내즈 안 보고 어디 가려고? 3",
