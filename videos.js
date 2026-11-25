@@ -1,5 +1,17 @@
 const videos = [
   {
+    "title": "𝑰 𝒄𝒂𝒏 𝒎𝒆𝒍𝒕 𝒂𝒏 𝒊𝒈𝒍𝒐𝒐🧊#HITGS #힛지스 #SEOJIN #서진",
+    "url": "https://www.youtube.com/watch?v=1vwYEI1jjvg",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-25",
+    "duration": "0:24",
+    "type": "SHORTS",
+    "isLive": false
+  },
+  {
     "title": "𝐿𝑜𝑜𝑘𝑠 𝐶𝑎𝑛 𝐾𝑖𝑙𝑙💘 #HITGS #힛지스 #SEOHEE #서희",
     "url": "https://www.youtube.com/watch?v=_iVa-BOoaT8",
     "year": "2026",
