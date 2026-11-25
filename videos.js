@@ -1,5 +1,17 @@
 const videos = [
   {
+    "title": "[힛지스] 하나가 된 순간",
+    "url": "https://www.youtube.com/watch?v=BH_TU4S1SEc",
+    "year": "2026",
+    "category": "FANTUBE",
+    "member": "ALL",
+    "channel": "혜린이좋아하겠습니다",
+    "channelAvatar": "https://yt3.ggpht.com/1-vyeShn5BL9mYNjl8UaO9N6v8bx2S5Eq2iioErCr_nrt4C8UjrpYrxcalxCrMCG1yJd8ArzCQ=s800-c-k-c0x00ffffff-no-rj",
+    "date": "2026-11-25",
+    "type": "VIDEO",
+    "duration": ""
+  },
+  {
     "title": "닿을 듯 말 듯 ₊˚♬ﾟ. #HITGS #힛지스 #IYOO #이유",
     "url": "https://www.youtube.com/watch?v=s4vdFV6fRzg",
     "year": "2026",
