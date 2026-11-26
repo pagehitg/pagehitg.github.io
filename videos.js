@@ -1,5 +1,29 @@
 const videos = [
   {
+    "title": "막내즈 안 보고 어디 가려고?4",
+    "url": "https://www.youtube.com/watch?v=rEdH8Ooq1qY",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-26",
+    "duration": "44:30",
+    "type": "VIDEO",
+    "isLive": true
+  },
+  {
+    "title": "막내즈 안 보고 어디 가려고?",
+    "url": "https://www.youtube.com/watch?v=JW8RO-HKk64",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-26",
+    "duration": "1:05:53",
+    "type": "VIDEO",
+    "isLive": true
+  },
+  {
     "title": "막내즈 5부..!ㅠㅠ미안해!!",
     "url": "https://www.youtube.com/watch?v=3rOGPJax0PY",
     "year": "2026",
@@ -12,18 +36,6 @@ const videos = [
     "isLive": true
   },
   {
-    "title": "막내즈 안 보고 어디 가려고?4",
-    "url": "https://www.youtube.com/watch?v=rEdH8Ooq1qY",
-    "year": "2026",
-    "category": "OFFICIAL",
-    "member": "ALL",
-    "channel": "HITGS (힛지스)",
-    "date": "2026-11-25",
-    "duration": "45:35",
-    "type": "VIDEO",
-    "isLive": true
-  },
-  {
     "title": "막내즈 안 보고 어디 가려고? 3",
     "url": "https://www.youtube.com/watch?v=b55j7FVWP9M",
     "year": "2026",
@@ -32,18 +44,6 @@ const videos = [
     "channel": "HITGS (힛지스)",
     "date": "2026-11-25",
     "duration": "6:00",
-    "type": "VIDEO",
-    "isLive": true
-  },
-  {
-    "title": "막내즈 안 보고 어디 가려고?",
-    "url": "https://www.youtube.com/watch?v=JW8RO-HKk64",
-    "year": "2026",
-    "category": "OFFICIAL",
-    "member": "ALL",
-    "channel": "HITGS (힛지스)",
-    "date": "2026-11-25",
-    "duration": "1:07:19",
     "type": "VIDEO",
     "isLive": true
   },
