@@ -1,5 +1,17 @@
 const videos = [
   {
+    "title": "이유에게로, 비행모드 중🐥 #HITGS #BRB #IYOO #이유 #ThingsWeDream_Vol4",
+    "url": "https://www.youtube.com/watch?v=sKXAcnius0U",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-26",
+    "duration": "0:31",
+    "type": "SHORTS",
+    "isLive": false
+  },
+  {
     "title": "막내즈 안 보고 어디 가려고?4",
     "url": "https://www.youtube.com/watch?v=rEdH8Ooq1qY",
     "year": "2026",
