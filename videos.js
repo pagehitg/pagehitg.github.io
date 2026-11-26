@@ -1,5 +1,17 @@
 const videos = [
   {
+    "title": "퇴사할게여👋 #HITGS #힛지스 #VV #비비",
+    "url": "https://www.youtube.com/watch?v=xclX7-yjcmo",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-26",
+    "duration": "0:42",
+    "type": "SHORTS",
+    "isLive": false
+  },
+  {
     "title": "이유에게로, 비행모드 중🐥 #HITGS #BRB #IYOO #이유 #ThingsWeDream_Vol4",
     "url": "https://www.youtube.com/watch?v=sKXAcnius0U",
     "year": "2026",
