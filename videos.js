@@ -1,5 +1,17 @@
 const videos = [
   {
+    "title": "아 진짜? #HITGS #힛지스 #SEOJIN #서진",
+    "url": "https://www.youtube.com/watch?v=jzaSw-vRiRM",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-27",
+    "duration": "0:11",
+    "type": "SHORTS",
+    "isLive": false
+  },
+  {
     "title": "퇴사할게여👋 #HITGS #힛지스 #VV #비비",
     "url": "https://www.youtube.com/watch?v=xclX7-yjcmo",
     "year": "2026",
