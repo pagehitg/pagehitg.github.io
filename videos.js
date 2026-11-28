@@ -1,5 +1,17 @@
 const videos = [
   {
+    "title": "낯선 장면 속 ପଓ¸¸.•¨• #HITGS #힛지스 #IYOO #이유",
+    "url": "https://www.youtube.com/watch?v=tj0wlTpmxSM",
+    "year": "2026",
+    "category": "OFFICIAL",
+    "member": "ALL",
+    "channel": "HITGS (힛지스)",
+    "date": "2026-11-28",
+    "duration": "0:29",
+    "type": "SHORTS",
+    "isLive": false
+  },
+  {
     "title": "HITGS가 오사카에 또 왔어요(feat.먹투어) | OSAKA 2nd FAN CONCERT BEHIND",
     "url": "https://www.youtube.com/watch?v=cavBngYPQnE",
     "year": "2026",
